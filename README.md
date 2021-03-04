@@ -13,7 +13,7 @@ In the exploration, I found that there was a strong relationship between Borrowe
 
 The borrowers with low prosper score also have low prosper rating while the borrowers with high prosper score also have high prosper rating.
 
-For different values of Prosper Ratings, there is a relationship between Loan Original Amount and Borrower APR. For 'HR' rating, borrowers get a smaller loan at comparitively high APR. With a Prosper Rating of 'AA', a borrower is eligible to get a loan of any amount and also pays lower APR on the loan.
+For different values of Prosper Ratings, there is a relationship between Loan Original Amount and Borrower APR. For 'HR' rating, borrowers get a smaller loan at comparatively high APR. With a Prosper Rating of 'AA', a borrower is eligible to get a loan of any amount and also pays lower APR on the loan.
 
 
 ## Key Insights for Presentation
