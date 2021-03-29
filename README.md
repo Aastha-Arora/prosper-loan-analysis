@@ -20,4 +20,4 @@ For different values of Prosper Ratings, there is a relationship between Loan Or
 
 For the presentation, I focus on just the influence of the effect of different features on the Borrower APR. I start by introducing the Borrower APR and plot distributions of main features. Next, I explore the relationship between different variable and plot bivariate vizualizations.
 
-I use box plots, violin plots, scatter plots and clustered bar charts to analyzed how Debt To Income Ratio, Stated Monthly Income and Loan Original Amount affect the Borrower APR. Towards the end, I explore the effect Loan Status and Income Range on Borrower API.
+I use box plots, violin plots, scatter plots and clustered bar charts to analyzed how Debt To Income Ratio, Stated Monthly Income and Loan Original Amount affect the Borrower APR. Towards the end, I explore the effect Loan Status and Income Range on Borrower APR.
