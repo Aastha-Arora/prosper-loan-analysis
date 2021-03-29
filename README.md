@@ -9,7 +9,7 @@ Prosper is a peer-to-peer lending marketplace. The [data set](https://www.google
 
 ## Summary of Findings
 
-In the exploration, I found that there was a strong relationship between Borrower ARP and Prosper Rating. For a borrower to get a good (low) APR rate, Prosper Rating should be high.
+In the exploration, I found that there was a strong relationship between Borrower APR and Prosper Rating. For a borrower to get a good (low) APR rate, Prosper Rating should be high.
 
 The borrowers with low prosper score also have low prosper rating while the borrowers with high prosper score also have high prosper rating.
 
